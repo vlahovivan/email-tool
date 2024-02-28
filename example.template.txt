@@ -1,0 +1,6 @@
+Hi {{ name }},
+
+This is a template e-mail sent from email-tool (https://github.com/vlahovivan/email-tool).
+
+Best wishes,
+Ivan
